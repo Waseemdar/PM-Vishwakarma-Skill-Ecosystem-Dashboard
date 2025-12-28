@@ -74,7 +74,7 @@ This prevents misleading interpretations based solely on scale.
 - Explicit base measures (no implicit aggregations)
 - Layered DAX architecture (Base → Derived → Dynamic)
 - Clean interaction control between visuals
-- Designed for PMO / Ministry / PMU review settings
+- Designed for PMU review settings, Government Departments and Skill Ecosystem Stakeholders on the theme of Public Dashboard
 
 ---
 
